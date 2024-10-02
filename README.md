@@ -1,1 +1,1 @@
-"# generative-ai" 
+This is an .ipynb file for Generative-ai with python using langchain and openai
